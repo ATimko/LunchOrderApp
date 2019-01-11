@@ -16,6 +16,7 @@ namespace LunchOrderApp
         decimal Tax = 0.0775m;
         decimal OrderTotal;
 
+// Main file for adding the changing checkboxes
 
         public frmHamburger()
         {
