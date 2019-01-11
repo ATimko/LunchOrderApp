@@ -1,0 +1,10 @@
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\bin\Debug\LunchOrderApp.exe.config
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\bin\Debug\LunchOrderApp.exe
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\bin\Debug\LunchOrderApp.pdb
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.csprojResolveAssemblyReference.cache
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.Properties.Resources.resources
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.csproj.GenerateResource.Cache
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.exe
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.pdb
+C:\Users\FlareonRoxy\source\repos\LunchOrderApp\LunchOrderApp\obj\Debug\LunchOrderApp.frmHamburger.resources
